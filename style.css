@@ -1,0 +1,154 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.top-banner{
+background-image: url(images/donation12.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+margin-top: 0;
+margin-bottom: 0;
+}
+.top-banner h1{
+    text-align: center;
+    padding-top: 300px;
+    left: 50%;
+    color: red; 
+    font-weight: 800;
+    font-size: 30px;
+
+}
+.top-banner p{
+    text-align: center;
+    padding: 0px 100px 50px 100px;
+    color: white;
+    font-weight: 800;
+
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner a{
+    top: 70%;
+    left: 55%;
+    position: absolute;}
+
+.amount{
+    height: 500px;
+    margin-top: 0;
+}
+
+.amount h1{
+    text-align: center;
+    margin-bottom: 100px;
+    padding: 50px;
+}
+.amount p{
+ text-align: center;
+ padding: 0 100px 0 100px;
+}
+.donate-amount{
+    display: flex;
+    
+
+}
+.donate-amount div{
+    margin: 5px;
+}
+    .red{
+        width: 50px;
+        height: 20px;
+        border: 2px solid red;
+        background-color: bisque;
+    }
+    .other-amount{
+        margin-top: 50px;
+      margin-left: 50%;
+        
+    }
+    .amount a{
+        margin-top: 30px;
+
+    }
+    .donate-plan h1{
+        text-align: center;
+    }
+    .donate-plan p{
+        text-align: center;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .icons-section{
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+    }
+    .icons-section div{
+        height: 300px;
+        width: 300px;
+        border: 2px solid blue;
+        margin: 20px;
+        margin-bottom: 100px;
+    }
+    
+    
+
+    #medicine {
+        background-color: aquamarine;
+    }
+    
+    #medicine-img{ 
+        image-size: 100px;
+    }
+
+    #food{
+        background-color: blanchedalmond;
+    }
+    #shelter{
+        background-color: cornflowerblue;}
+
+    .food-cloth{
+        display: flex;
+    }
+    .helpless-people{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .food-cloth img{
+        width: 80%;
+    }
+    .email{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      height: 60px;
+      width: 450px;
+        background-color: aqua;
+        margin-left: 440px;
+        margin-bottom: 100px;
+    }
+    .get-update h1{
+        text-align: center;
+        margin-top: 100px;
+    }
+    .get-update p{
+        text-align: center;
+    }
+    .btn{
+        color: crimson;
+    }
+    footer{
+        color: darkorange;
+        height: 100px;
+        text-align: center;
+        background-color: black;
+        padding-top: 50px;
+    }
